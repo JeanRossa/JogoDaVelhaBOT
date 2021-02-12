@@ -1,3 +1,1 @@
-> BOT criado por hobby
-> O Código apresenta muito o uso da boa e velha técnica de programação orientada a gambiarra
-> É isso
+Esse BOT foi criado apenas por hobby, disponibilizei o código em python pra caso alguem tenha curiosidade em saber como foi feito, é isso
